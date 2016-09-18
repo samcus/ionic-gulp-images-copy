@@ -1,6 +1,6 @@
 {
   "name": "ionic-gulp-images-copy",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "description": "Gulp task for Ionic projects to copy images to a build directory",
   "main": "index.js",
   "scripts": {

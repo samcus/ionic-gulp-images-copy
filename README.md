@@ -1,5 +1,5 @@
 # Images Copy Task
-Copy Ionic images to build directory.
+Copy Ionic 2 images to build directory.
 
 ## Installation
 

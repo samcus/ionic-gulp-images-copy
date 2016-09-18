@@ -1,0 +1,31 @@
+{
+  "name": "ionic-gulp-images-copy",
+  "version": "0.0.1",
+  "description": "Gulp task for Ionic projects to copy images to a build directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcus/ionic-gulp-images-copy.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Images",
+    "Ionic",
+    "Ionic",
+    "Framework",
+    "Task",
+    "Copy"
+  ],
+  "author": "Samuel Anthony Custer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samcus/ionic-gulp-images-copy/issues"
+  },
+  "homepage": "https://github.com/samcus/ionic-gulp-images-copy#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

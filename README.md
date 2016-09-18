@@ -1,6 +1,12 @@
 # Images Copy Task
 Copy Ionic images to build directory.
 
+## Installation
+
+```bash
+npm install --save-dev ionic-gulp-images-copy
+```
+
 ## API
 
 ### copyImages([options])
@@ -23,8 +29,3 @@ gulp.task('images', function(){
   return copyImages({ dest: 'www/my-custom-build-dir' });
 });
 ```
-
-
-
-
-
